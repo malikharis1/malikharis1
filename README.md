@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @malikharis1
-- 👀 I’m interested in Front-end and programing
-- 📫 How to reach me @harismalik1@pm.me...
+- I am a Student, Web Developer And Designer currently living in Jammu And Kashmir.My Interests Range From Design To Web Development. I am also interested in Programming, Technology, And Education.
 
 <!---
 malikharis1/malikharis1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
