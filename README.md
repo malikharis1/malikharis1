@@ -19,10 +19,13 @@ Built itinerary builders
 Created centralized admin systems
 Helped businesses move beyond Excel sheets from 1998
 <br>
-## 🔭 Currently:<br><br>
+## 🔭 Currently:
 Exploring scalable SaaS architecture (the “what if this goes big?” phase)
+
 Deep diving into system design patterns
+
 Optimizing performance and database structures
+
 Improving deployment workflows
 <br>
 ## 📊 GitHub Reality Check:<br><br>
