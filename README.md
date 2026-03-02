@@ -1,5 +1,5 @@
 ## 💫 About Me:
-#🚀 The "Yeah, I Actually Build Stuff That Works" Developer<br><br>
+# 🚀 The "Yeah, I Actually Build Stuff That Works" Developer<br><br>
 
 With nearly 5 years of professional experience in the trenches of web development, I specialize in building production-ready systems that handle real users, process actual payments, and don’t crash on a random Tuesday afternoon.<br><br>
 
@@ -18,7 +18,7 @@ Redesigning a system because “this could scale better”
 Fixing something that broke in production at the worst possible time
 
 <br>
-##🏗️ What I Actually Do:<br><br>
+## 🏗️ What I Actually Do:<br><br>
 🏨 Enterprise-Level Systems
 
 Built complete hotel reservation & travel management platforms
@@ -55,7 +55,7 @@ Created centralized admin systems
 Helped businesses move beyond Excel sheets from 1998
 
 <br>
-##🔭 Currently:<br><br>
+## 🔭 Currently:<br><br>
 
 Exploring scalable SaaS architecture (the “what if this goes big?” phase)
 
