@@ -18,10 +18,6 @@
 • Many projects are actively deployed
 • Most large-scale industry applications are private (client work + NDA)
 
-⚠️ Friendly Disclaimer:
-If you see small repos, experiments, or practice projects — please don’t judge 😄
-The real heavy production systems are private and running in the background.
-
 <br>
 
 🎟 Want a free tour of what I’ve built?
