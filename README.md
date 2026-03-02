@@ -3,7 +3,7 @@
 With nearly 5 years of professional experience in the trenches of web development, I specialize in building production-ready systems that handle real users, process actual payments, and don’t crash on a random Tuesday afternoon.<br>
 I thrive on turning complex challenges into seamless experiences.
 <br>
-# 🏗️ What I Actually Do:<br><br>
+# 🏗️ What I Actually Do:
 ## 🏨 Enterprise-Level Systems
 Built complete hotel reservation & travel management platforms
 Handle real bookings, real revenue, and real customers
