@@ -1,5 +1,5 @@
-💫 About Me:
-🚀 The "Yeah, I Actually Build Stuff That Works" Developer<br><br>
+## 💫 About Me:
+#🚀 The "Yeah, I Actually Build Stuff That Works" Developer<br><br>
 
 With nearly 5 years of professional experience in the trenches of web development, I specialize in building production-ready systems that handle real users, process actual payments, and don’t crash on a random Tuesday afternoon.<br><br>
 
@@ -18,7 +18,7 @@ Redesigning a system because “this could scale better”
 Fixing something that broke in production at the worst possible time
 
 <br>
-🏗️ What I Actually Do:<br><br>
+##🏗️ What I Actually Do:<br><br>
 🏨 Enterprise-Level Systems
 
 Built complete hotel reservation & travel management platforms
@@ -55,7 +55,7 @@ Created centralized admin systems
 Helped businesses move beyond Excel sheets from 1998
 
 <br>
-🔭 Currently:<br><br>
+##🔭 Currently:<br><br>
 
 Exploring scalable SaaS architecture (the “what if this goes big?” phase)
 
@@ -66,7 +66,7 @@ Optimizing performance and database structures
 Improving deployment workflows
 
 <br>
-💬 Ask Me About:<br><br>
+## 💬 Ask Me About:<br><br>
 
 Laravel (complicated but loving relationship)
 
@@ -81,7 +81,7 @@ Database optimization
 How not to deploy on Friday
 
 <br>
-📊 GitHub Reality Check:<br><br>
+## 📊 GitHub Reality Check:<br><br>
 
 📁 Total Repositories: 101+ and growing
 
@@ -97,7 +97,7 @@ How not to deploy on Friday
 The real heavy production systems live in private repositories.
 
 <br>
-🎟️ Want a Tour?<br><br>
+## 🎟️ Want a Tour?<br><br>
 
 Most large-scale systems I’ve built are locked away in private repositories like digital dragons guarding gold.<br><br>
 
