@@ -1,116 +1,58 @@
 ## 💫 About Me:
 # 🚀 The "Yeah, I Actually Build Stuff That Works" Developer<br><br>
 
-With nearly 5 years of professional experience in the trenches of web development, I specialize in building production-ready systems that handle real users, process actual payments, and don’t crash on a random Tuesday afternoon.<br><br>
-
-You know… the kind of projects tutorials conveniently skip.<br><br>
-
-I’ve built everything from enterprise hotel booking engines processing thousands of reservations to logistics platforms that track shipments without losing packages (mostly).<br><br>
-
-When I’m not wrestling backend architecture or convincing React to behave, I’m probably:<br><br>
-
+With nearly 5 years of professional experience in the trenches of web development, I specialize in building production-ready systems that handle real users, process actual payments, and don’t crash on a random Tuesday afternoon.<br>
+I’ve built everything from enterprise hotel booking engines processing thousands of reservations to logistics platforms that track shipments without losing packages (mostly).<br>
+When I’m not wrestling backend architecture or convincing React to behave, I’m probably:<br>
 Optimizing database queries that were already “fine”
-
 Automating something that absolutely didn’t need automation
-
 Redesigning a system because “this could scale better”
-
 Fixing something that broke in production at the worst possible time
-
 <br>
 ## 🏗️ What I Actually Do:<br><br>
 🏨 Enterprise-Level Systems
-
 Built complete hotel reservation & travel management platforms
-
 Handle real bookings, real revenue, and real customers
-
 Yes, including the 2 AM “why is this not working?” calls
-
 <br>
 🧾 Invoice Automation
-
 Integrated GST invoice generation
-
 Connected WhatsApp Meta API for automated invoice delivery
-
 Eliminated manual PDF sending (you’re welcome)
-
 <br>
 📦 Logistics Platforms
-
 Developed clean tracking backends
-
 Real-time shipment visibility
-
 Structured multi-database backend systems
-
 <br>
 ✈️ Tour & Travel Tools
-
 Built itinerary builders
-
 Created centralized admin systems
-
 Helped businesses move beyond Excel sheets from 1998
-
 <br>
 ## 🔭 Currently:<br><br>
-
 Exploring scalable SaaS architecture (the “what if this goes big?” phase)
-
 Deep diving into system design patterns
-
 Optimizing performance and database structures
-
 Improving deployment workflows
-
-<br>
-## 💬 Ask Me About:<br><br>
-
-Laravel (complicated but loving relationship)
-
-React (we’re working on it)
-
-Backend architecture
-
-Scaling production systems
-
-Database optimization
-
-How not to deploy on Friday
-
 <br>
 ## 📊 GitHub Reality Check:<br><br>
-
 📁 Total Repositories: 101+ and growing
-
 🔒 Private Repositories: Most serious industry-level systems (thanks NDAs)
-
 🚀 Deployed Projects: Many — and actively running
-
 ⚡ Production Systems: Yes. The kind that actually pays the bills
-
 <br>
-
 ⚠️ If you see small repos, experiments, or test projects — don’t judge 😄
 The real heavy production systems live in private repositories.
-
 <br>
 ## 🎟️ Want a Tour?<br><br>
-
 Most large-scale systems I’ve built are locked away in private repositories like digital dragons guarding gold.<br><br>
-
 But I’m not gatekeeping.<br><br>
-
 If you’re genuinely curious about architecture decisions, scaling logic, database structure, or API design:<br><br>
-
 📧 Email me at hi@malikharis.in
 <br><br>
-
 I’ll personally walk you through the systems I’ve built —
 no bots, no automated replies, just real engineering discussion.<br><br>
-
 ⚠️ Warning: May contain strong opinions about indexing strategies and clean API architecture.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/malik_haris_1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/malikharis1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/malik_haris_1) 
