@@ -1,6 +1,5 @@
 # 💫 About Me:
-# 🚀 The "Yeah, I Actually Build Stuff That Works" Developer<br><br>
-
+🚀 The "Yeah, I Actually Build Stuff That Works" Developer<br><br>
 With nearly 5 years of professional experience in the trenches of web development, I specialize in building production-ready systems that handle real users, process actual payments, and don’t crash on a random Tuesday afternoon.<br>
 I thrive on turning complex challenges into seamless experiences.
 <br>
