@@ -3,6 +3,25 @@
 With nearly 5 years of professional experience in the trenches of web development, I specialize in building production-ready systems that handle real users, process actual payments, and don’t crash on a random Tuesday afternoon.<br>
 I thrive on turning complex challenges into seamless experiences.
 <br>
+## 📊 GitHub Reality Check:
+📁 Total Repositories: 101+ and growing
+
+🔒 Private Repositories: Most serious industry-level systems (thanks NDAs)
+
+🚀 Deployed Projects: Many — and actively running
+
+⚡ Production Systems: Yes. The kind that actually pays the bills
+<br>
+⚠️ The real heavy production systems live in private repositories.
+<br>
+## 🎟️ Want a Tour?
+Most large-scale systems I’ve built are locked away in private repositories like digital dragons guarding gold.<br><br>
+But I’m not gatekeeping.<br><br>
+If you’re genuinely curious about architecture decisions, scaling logic, database structure, or API design:<br><br>
+📧 Email me at hi@malikharis.in
+<br><br>
+I’ll personally walk you through the systems I’ve built —
+no bots, no automated replies, just real engineering discussion.<br><br>
 # 🏗️ What I Actually Do:
 ## 🏨 Enterprise-Level Systems
 Built complete hotel reservation & travel management platforms
@@ -28,25 +47,7 @@ Optimizing performance and database structures
 
 Improving deployment workflows
 <br>
-## 📊 GitHub Reality Check:
-📁 Total Repositories: 101+ and growing
 
-🔒 Private Repositories: Most serious industry-level systems (thanks NDAs)
-
-🚀 Deployed Projects: Many — and actively running
-
-⚡ Production Systems: Yes. The kind that actually pays the bills
-<br>
-⚠️ The real heavy production systems live in private repositories.
-<br>
-## 🎟️ Want a Tour?
-Most large-scale systems I’ve built are locked away in private repositories like digital dragons guarding gold.<br><br>
-But I’m not gatekeeping.<br><br>
-If you’re genuinely curious about architecture decisions, scaling logic, database structure, or API design:<br><br>
-📧 Email me at hi@malikharis.in
-<br><br>
-I’ll personally walk you through the systems I’ve built —
-no bots, no automated replies, just real engineering discussion.<br><br>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/malik_haris_1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/malikharis1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/malik_haris_1) 
 
