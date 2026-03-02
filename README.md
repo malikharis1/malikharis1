@@ -1,31 +1,26 @@
-## 💫 About Me:
+# 💫 About Me:
 # 🚀 The "Yeah, I Actually Build Stuff That Works" Developer<br><br>
 
 With nearly 5 years of professional experience in the trenches of web development, I specialize in building production-ready systems that handle real users, process actual payments, and don’t crash on a random Tuesday afternoon.<br>
-I’ve built everything from enterprise hotel booking engines processing thousands of reservations to logistics platforms that track shipments without losing packages (mostly).<br>
-When I’m not wrestling backend architecture or convincing React to behave, I’m probably:<br>
-Optimizing database queries that were already “fine”
-Automating something that absolutely didn’t need automation
-Redesigning a system because “this could scale better”
-Fixing something that broke in production at the worst possible time
+I thrive on turning complex challenges into seamless experiences.
 <br>
-## 🏗️ What I Actually Do:<br><br>
-🏨 Enterprise-Level Systems
+# 🏗️ What I Actually Do:<br><br>
+## 🏨 Enterprise-Level Systems
 Built complete hotel reservation & travel management platforms
 Handle real bookings, real revenue, and real customers
 Yes, including the 2 AM “why is this not working?” calls
 <br>
-🧾 Invoice Automation
+## 🧾 Invoice Automation
 Integrated GST invoice generation
 Connected WhatsApp Meta API for automated invoice delivery
 Eliminated manual PDF sending (you’re welcome)
 <br>
-📦 Logistics Platforms
+## 📦 Logistics Platforms
 Developed clean tracking backends
 Real-time shipment visibility
 Structured multi-database backend systems
 <br>
-✈️ Tour & Travel Tools
+## ✈️ Tour & Travel Tools
 Built itinerary builders
 Created centralized admin systems
 Helped businesses move beyond Excel sheets from 1998
