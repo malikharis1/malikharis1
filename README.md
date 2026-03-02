@@ -28,16 +28,18 @@ Optimizing performance and database structures
 
 Improving deployment workflows
 <br>
-## 📊 GitHub Reality Check:<br><br>
+## 📊 GitHub Reality Check:
 📁 Total Repositories: 101+ and growing
+
 🔒 Private Repositories: Most serious industry-level systems (thanks NDAs)
+
 🚀 Deployed Projects: Many — and actively running
+
 ⚡ Production Systems: Yes. The kind that actually pays the bills
 <br>
-⚠️ If you see small repos, experiments, or test projects — don’t judge 😄
-The real heavy production systems live in private repositories.
+⚠️ The real heavy production systems live in private repositories.
 <br>
-## 🎟️ Want a Tour?<br><br>
+## 🎟️ Want a Tour?
 Most large-scale systems I’ve built are locked away in private repositories like digital dragons guarding gold.<br><br>
 But I’m not gatekeeping.<br><br>
 If you’re genuinely curious about architecture decisions, scaling logic, database structure, or API design:<br><br>
@@ -45,7 +47,6 @@ If you’re genuinely curious about architecture decisions, scaling logic, datab
 <br><br>
 I’ll personally walk you through the systems I’ve built —
 no bots, no automated replies, just real engineering discussion.<br><br>
-⚠️ Warning: May contain strong opinions about indexing strategies and clean API architecture.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/malik_haris_1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/malikharis1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/malik_haris_1) 
 
