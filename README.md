@@ -14,11 +14,6 @@ Integrated GST invoice generation
 Connected WhatsApp Meta API for automated invoice delivery
 Eliminated manual PDF sending (you’re welcome)
 <br>
-## 📦 Logistics Platforms
-Developed clean tracking backends
-Real-time shipment visibility
-Structured multi-database backend systems
-<br>
 ## ✈️ Tour & Travel Tools
 Built itinerary builders
 Created centralized admin systems
